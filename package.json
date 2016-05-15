@@ -9,6 +9,7 @@
   },
   "author": "Keith O'Malley",
   "license": "UNLICENSED",
+  "repository": "git@github.com:keithomalley/simple-todo-list.git",
   "dependencies": {
     "immutable": "^3.8.1",
     "react": "^15.0.2",
